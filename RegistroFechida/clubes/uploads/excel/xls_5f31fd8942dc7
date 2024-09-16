@@ -1,0 +1,99 @@
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=REBDomlI05dPbSq8ObAjKi/pIXzE6AKA/lQmRCCjHb8=;
+        b=pDUzBIaE7X5nb7DDswD833LJ81cAHck4jNqIkOGjM7tN6utGhXp0XvGNCtbmyIXXuc
+         uHdRG/LLwHU/MZ3bJa3V2cV2Ha/1G8LpkaDeNmaXhLd9ZyYY2r56nA9qOd0FzsZq6WAt
+         qs53w5MxFiQIxGZI4NU3Jd0dzRW1WrJK72QzF66gFkgCXWAGdh+13glq2Hgh7s/mGc6a
+         zOkh8uUx0vCahNNf3cPN7EEak0B2RSrbgF9IGXHonk4gGC0VF9F9D6LvAdbL3pSnw6m7
+         lgHRHPK5OIm+5lXLmA/pX59pNUefhvQ+KuL5KT7QbINWZvFt8m80OxVRUDSF/s6fJaGH
+         PSXw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=REBDomlI05dPbSq8ObAjKi/pIXzE6AKA/lQmRCCjHb8=;
+        b=BOF08Oq7WC2GM6Qn5Wr4qM/S6wuu+BpT4aQEq/oeWv/b9thE9A0v87z+iroiqKY+4k
+         lEYyypKf8Ua69sH6+tDyKBDYCL1NS9OF3eImcP4z9EQK9Wa8WbinLPiJQFIgoT9x6j/6
+         5Dxh1i4kyDlPJIDC1pjloTHuf0loPx9+2vYl3/fNFsF1BCYvUwMYO7WkHxxkje+NG31u
+         cZrK1F9vfk/M8iBZ2tebLvWZTFo1EzQgqOceABsh6u1sUd2mB47WPP7ib18W90JVENlF
+         eJuqJWqfpdH7cBuVo8J95pc07bUeIs8+gUV7otyLOSmG+RLRBVt4X5cs++8Id4/pqDH7
+         Ld2g==
+X-Gm-Message-State: AOUpUlF0e2XXNeJfBy7/kOYSdDDOS476jKuBiJp26AKv7+eCPoS43PYt
+	kGAzYp7QqJcX4Vh04MJ5ZEXV0XR5kzJHlLyD7AM3ZA==
+X-Google-Smtp-Source: AAOMgpcbkae2K7T0ufVeU4iTHCnE8u9aXqktSL1a/pIkVk9CzcB1SyHLs/mSxDr8b3BJphkQITdaTd1MSdl4zagHRsA=
+X-Received: by 2002:a37:60c4:: with SMTP id u187-v6mr4785176qkb.143.1533327819249;
+ Fri, 03 Aug 2018 13:23:39 -0700 (PDT)
+MIME-Version: 1.0
+From: Carlos Vasquez <carlosvasquez6976@gmail.com>
+Date: Fri, 3 Aug 2018 16:23:27 -0400
+Message-ID: <CABEakhQX+Xh+ru2mrsi_R=ND16Jdz9xr=v31E+x7w6onN+K2vQ@mail.gmail.com>
+Subject: Kinesiologo cer
+To: daniel.Fernández@ind.cl, alexandro.moraga@ind.cl
+Content-Type: multipart/alternative; boundary="000000000000fd9f6c05728db376"
+
+--000000000000fd9f6c05728db376
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Estimado Daniel y alexandro
+
+Soy apoderada de Alejandra Vásquez de clavados, y me gustaría plantear, en
+búsqueda de una pronta solución, la temática del espacio físico para el
+trabajo kinesiológico de los deportistas del programa CER.
+
+Quiero primero hacer notar que los tratamiento entregados resultan
+fundamentales para los deportistas, y agradezco que mi hija haya podido
+asistir con Marco Rodríguez a sus tratamientos pues han resultado sumamente
+beneficiosos para la mejora de sus lesiones. Pero este excelente beneficio
+he visto como se ve truncado, impedido o interrumpido debido a los
+múltiples eventos que se realizan en las distintas dependencias del Estadio
+Nacional.
+
+Inicialmente los eventos en el coliseo mismo hacían que no pudiéramos
+mantener la regularidad requerida de los tratamiento y el lugar fue
+trasladado al polideportivo, y posteriormente al velódromo, y nuevamente al
+polideportivo.
+
+Este último mes, las dos semanas de vacaciones de invierno no tuvimos la
+oportunidad de contar con el recinto, esta semana este viernes nuevamente
+se cierra el lugar (solo pudimos realizar kine el miércoles) y la próxima
+semana también se vuelve a cerrar, de modo que los tratamientos de los
+deportista son incompletos y poco efectivos, alargando la recuperación de
+sus lesiones y perdiendo mucho tiempo de entrenamiento y avances en sus
+disciplinas.
+
+En el entendido que es el Estadio Nacional el único recinto con las
+instalaciones suficientes para todos estos eventos, mi observación no va
+como queja al sistema, mas bien apunta a lograr un lugar mas definitivo o
+constante en el tiempo (pues se entiende que para el profesional es
+incomodo y dificultoso el trasladarse constantemente), un lugar que no este
+expuesto a tantas fechas que imposibiliten el uso de sala, o que, en  caso
+de haber un evento, los deportistas puedan igual acceder a la sala de kine
+y hacer sus tratamientos.
+
+Según mi percepción (que entiendo no tiene todas las variables que usted
+debe manejar) el polideportivo y el coliseo mismo son lugares de alta
+concurrencia, no así el velódromo, donde el espacio era bastante adecuado.
+
+Agradezco se tome en consideración las observaciones que aquí planteo, como
+dije anteriormente, en búsqueda de mejorar este beneficio que resulta
+fundamental como apoyo a deportistas en formación y de alto rendimiento
+como mi hija y muchos otros que he visto en el programa tanto en clavados
+como en otras disciplinas.
+
+Un cordial saludo
+
+Carlos Vásquez plaza
+Papá de Alejandra Vásquez
+Clavados.
+-- 
+Carlos Vásquez plaza
++56976076645
+
+--000000000000fd9f6c05728db376
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<div dir="auto"><div dir="auto">Estimado Daniel y alexandro</div><div dir="auto"><br></div><div dir="auto">Soy apoderada de Alejandra Vásquez de clavados, y me gustaría plantear, en búsqueda de una pronta solución, la temática del espacio físico para el trabajo kinesiológico de los deportistas del programa CER. </div><div dir="auto"><br></div><div dir="auto">Quiero primero hacer notar que los tratamiento entregados resultan fundamentales para los deportistas, y agradezco que mi hija haya podido asistir con Marco Rodríguez a sus tratamientos pues han resultado sumamente beneficiosos para la mejora de sus lesiones. Pero este excelente beneficio he visto como se ve truncado, impedido o interrumpido debido a los múltiples eventos que se realizan en las distintas dependencias del Estadio Nacional. </div><div dir="auto"><br></div><div dir="auto">Inicialmente los eventos en el coliseo mismo hacían que no pudiéramos mantener la<!--
+--> regularidad requerida de los tratamiento y el lugar fue trasladado al polideportivo, y posteriormente al velódromo, y nuevamente al polideportivo. </div><div dir="auto"><br></div><div dir="auto">Este último mes, las dos semanas de vacaciones de invierno no tuvimos la oportunidad 
+----- Message truncated -----

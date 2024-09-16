@@ -1,0 +1,10 @@
+Deny from all
+<FilesMatch "\.(pdf)$">
+    Allow from all
+</FilesMatch>
+
+RewriteEngine On
+
+# Denegar acceso directo a archivos dentro de la carpeta
+RewriteCond %{THE_REQUEST} \s/licencias/[^?\s]+\.pdf\s [NC]
+RewriteRule ^ - [F]
